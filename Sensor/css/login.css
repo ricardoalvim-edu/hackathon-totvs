@@ -1,0 +1,97 @@
+body {
+	background-color: #FCFCFB;
+	margin: 0;
+}
+
+.login{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	display: block;
+        position: relative;
+	background-color: #FBFBFA;
+}
+
+.box {
+	margin: 150px auto;
+	background: #fff;
+	border-radius: 5px;
+	border: solid 1px #edeeee;
+	position: static;
+	width: 350px;
+	display: block;
+	background-color: #FFFFFF;
+}
+
+.insideBox{
+	padding: 20px;
+}
+
+.loginLabel{
+	color: #4b4f54;
+	display: block;
+	font-size: 15px;
+	font-weight: 600;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding: 5px;
+	font-family:'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+.loginInput{
+	background-color: #fdfdfd;
+	border: solid 1px #edeeee;
+	border-radius: 3px;
+	box-sizing: border-box;
+	font-size: 14px;
+	padding: 9px 8px 7px;
+	width: 100%;
+        margin-bottom: 10px;
+	-webkit-appearance: none;
+}
+
+.loginLabelPassword{
+	color: #5a89ac;
+	float: right;
+	font-size: 15px;
+	font-weight: 600;
+	margin-right: 10px;
+	font-family:'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;	
+}
+
+.loginLabelPassword:hover{
+    color: #4b4f54;
+}
+
+button{
+	width: 100%;
+	font-size: 14px;
+	padding: 9px 8px 7px;
+	border: solid 1px;
+	border-radius: 3px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #fff;
+}
+
+.loginButtonOnePage{
+	border-color: #66bd2b;
+	background-color: #66bd2b;
+}
+
+.loginButtonTwoPage{
+	border-color: #115789;
+	background-color: #115789;
+	padding-left: 3px;
+}
+
+button.loginButtonOnePage:hover{
+	background-color: #48841E; 
+	border-color: #48841E;
+	cursor: hand;
+}
+
+.logoImage{
+    width: 80%;
+    margin-left: 30px;
+}

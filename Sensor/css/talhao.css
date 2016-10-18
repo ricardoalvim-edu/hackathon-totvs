@@ -1,0 +1,98 @@
+div.infoTalhao {
+	width: 700px;
+	padding: 10px;
+	margin: 0 auto;
+	color: #388aaf;
+	position: static;
+}
+
+div.talhaoMapa {
+	float: left;
+	width: 50%;
+	display: block;
+}
+
+div.talhaoMapa img {
+	width: 80%;
+}
+
+div.infoDir {
+	width: 40%;
+	float: right;
+	margin: 0 10px 0 10px;
+	display: block;
+	text-align: center;
+}
+
+div.titleInfo {
+	font-family:'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+	display: block;
+	position: relative;
+	width: 100%;
+}
+
+div.botaoIrrigacao {
+	position: relative;
+	display: block;
+	width: 100%;
+	padding: 5px;
+        margin-bottom: 10px;
+}
+
+div.botaoIrrigacao button {
+	width: 100%;
+}
+
+div.blocoCultura {
+	background-color: #388aaf;
+	color: #fff;
+	display: block;
+	padding: 5px;
+}
+
+div.blocoArea {
+	border: 1px solid #388aaf;
+	display: block;
+	padding: 5px;
+}
+
+div.blocoXcoord {
+	width: 46%;
+	float: left;
+	background-color: #388aaf;
+	color: #fff;
+	border-right: 1px solid #fff;
+	display: inline;
+	padding: 5px;
+}
+
+div.blocoYcoord {
+	width: 46%;
+	float: right;
+	background-color: #388aaf;
+	color: #fff;
+	padding: 5px;
+}
+
+div.detalhesFinais {
+	position: static;
+	display: block;
+	border: 1px solid #388aaf;
+
+}
+
+span.avisoIrrigador {
+    border: 1px solid #388aaf;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div#graficosIframe {
+	max-width: 950px;
+	padding: 10px;
+	float: right;
+}
+
+div.iframes {
+	padding: 10px;
+}

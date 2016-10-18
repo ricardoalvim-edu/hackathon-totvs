@@ -1,0 +1,48 @@
+body {
+	background-color: #fff;
+	margin: 0;
+	padding: 30px;
+	font-family:'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+div.cadastroTalhao {
+	width: 900px;
+	margin: 0 auto;
+}
+
+img.logoImage {
+	margin-top: -1%;
+}
+
+div.cadastroLinha {
+	float: left;
+	width: 30%;
+	margin: 1%;
+	margin-left: 10%;
+}
+
+div.end-nav {
+	clear: both;
+}
+
+div.divisaoLinha{
+	margin-bottom: 2%;
+	margin-left: 10%;
+}
+
+div.cadastroLinha label {
+	padding-top: 20px;
+}
+
+input#envioImagemTalhao {
+	width: 123px;
+	overflow: hidden;
+}
+
+label input {
+	margin-top: 10px;
+}
+
+input#formsubmitbutton {
+	width: 100%;
+}

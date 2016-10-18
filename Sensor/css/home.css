@@ -1,0 +1,49 @@
+body {
+	background-color: #fff;
+	margin: 0;
+	padding: 0 30px 0 30px;
+	font-family:'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+div.center-block {
+	border-bottom: 1px solid #388aaf;
+}
+
+img.logoImage {
+	width: 300px;
+	padding: 15px 0 15px 15px;
+}
+
+div.end-nav {
+	clear: both;
+}
+
+nav.box-options {
+	width: 25%;
+	border-right: 1px solid #388aaf;
+	float: left;
+}
+
+li.options {
+	list-style-type: none;
+	font-size: 20px;
+	padding: 15px;
+	display: block;
+}
+
+li.options a {
+	text-decoration: none;
+}
+
+li.options:hover {
+	background-color: rgba(56,138,175,.1)
+}
+
+div.content {
+	float: left;
+	width: 75%;
+}
+
+span.alert-warning {
+	padding-left: 20px;
+}

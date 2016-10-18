@@ -1,0 +1,23 @@
+﻿-- ESCOPO TBMS -- 16h42~16h54 / 18h06~18h12
+
+1) Sobre do projeto
+	Coleta de dados analógicos em real-time do campo para transmissão
+	para uma central de informações por meio de uma infraestrutura
+	previamente instalada pelo fazendeiro (terceirizado).
+
+2) Objetivo	
+	Solução automatizada para tomada de decisões na coleta de dados em campo.
+
+3) Justificativa
+	Transferência do processo manual de coleta de dados em campo para
+	uma coleta sensorial automatizada, de forma a auxiliar o fazendeiro
+	a realizar tomada de decisões em sua lavoura.
+
+4) Desenvolvimento
+	- Coleta de dados por meio da tecnologia sem fio associada a um
+	microcontrolador (Arduino, Edison, entre outros);
+	- Envio dos dados para uma central de processamento e transmissão
+	de dados, a qual armazena os mesmos para processamento;
+	- Tratamento dos dados para exibição em uma plataforma mobile e web:
+		- Exibição dos dados por meio de indicadores de temperatura e umidade
+		para melhoria do cultivo de sua safra.
